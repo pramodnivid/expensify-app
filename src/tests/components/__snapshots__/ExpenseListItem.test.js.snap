@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render expense list 1`] = `
+<div>
+  <h3 />
+  <p>
+    amount:
+    , created on: 
+  </p>
+  <button
+    onClick={[Function]}
+  >
+     remove 
+  </button>
+  <NavLink
+    activeClassName="is-active"
+    ariaCurrent="true"
+    exact={true}
+    to="/edit/undefined"
+  >
+     Edit 
+  </NavLink>
+</div>
+`;
